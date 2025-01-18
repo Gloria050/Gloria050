@@ -1,8 +1,7 @@
-# 👋 Hi there, this is Gloria Hermes!
+# 👋 Hi there, this is Gloria!
 
 Check out my work and projects here:
-
-- 📝 **Published Paper**: [Research on the Influencing Factors of Automobile Price](#)  
+ 
 - 🎓 **Education**:  
   - [2024.9–2026.6] **MS in Information Systems**, [Santa Clara University](https://www.scu.edu)  
   - [2017.9–2021.6] **Bachelor of Accounting**, [Hubei University of Economics](https://www.hbue.edu.cn)  
