@@ -13,7 +13,7 @@ Check out my work and projects here:
   - [2024.6–2024.9] **Data Analyst Intern**, [EchoPlus LLC](https://www.echoplusai.com/)  
     - Leveraged text mining and predictive models to improve user retention by 10% in mobile gaming.  
     - Built Tableau dashboards to visualize trends and improve data clarity by 35%.  
-  - [2021.9–2023.3] **Accountant**, [Tianjin Yinghua International School](https://www.yhinghua.com)  
+  - [2021.9–2023.3] **Accountant**, [Tianjin Yinghua International School](https://www.tjyh2003.com/) 
     - Ensured the accuracy, compliance, and efficiency of school financial management, optimizing fund usage and student payment processes.  
     - Supported smooth tuition fee collection and real-time payment status updates using QuickBooks and ERP systems.  
   - [2021.3–2021.9] **Accounting Intern**, [China Coal Energy Company Limited](http://www.chinacoalenergy.com)  
