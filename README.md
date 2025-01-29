@@ -26,7 +26,7 @@ Check out my work and projects here:
   - Passionate about technology, data-driven decision-making, and financial analysis.  
   - Focused on leveraging advanced machine learning techniques, natural language processing, and data visualization to solve real-world problems.  
 
-- # 🌟 Professional Technical Expertise
+- 🌟 Professional Technical Expertise
 
 ## 🖥️ Programming Proficiency
 - **Languages:** Java, JavaScript, Python, Generative AI, SQL
