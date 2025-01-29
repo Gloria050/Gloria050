@@ -10,7 +10,7 @@ Check out my work and projects here:
   - [2024.11–Present] **Data Analyst Intern**, [HYP Global Education](https://www.hypglobal.com)  
     - Conducted data analysis using Python and SQL on 100K+ customer records.  
     - Designed segmentation models to identify high-value users, driving marketing strategies.  
-  - [2024.6–2024.9] **Data Analyst Intern**, [EchoPlus LLC](https://www.echoplus.com)  
+  - [2024.6–2024.9] **Data Analyst Intern**, [EchoPlus LLC](https://www.echoplusai.com/)  
     - Leveraged text mining and predictive models to improve user retention by 10% in mobile gaming.  
     - Built Tableau dashboards to visualize trends and improve data clarity by 35%.  
   - [2021.9–2023.3] **Accountant**, [Tianjin Yinghua International School](https://www.yhinghua.com)  
